@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.container {
+  background-color: #f1f5f8;
+  height: 100vh;
+  background-size: cover;
+}
+.heading {
+  color: #2d3a35;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.para {
+  color: #2d3a35;
+  font-weight: normal;
+  font-family: 'Roboto';
+}
+.button{
+  background-color:  #007bff;
+  color:#ffffff;
+  font-family: "Roboto";
+  cursor:pointer;
+  outline:none;
+}
